@@ -1,0 +1,35 @@
+﻿body {
+}
+
+.displayClassInView {
+    width:245px;
+    height:25px;
+    text-align: right;
+}
+
+.calculatorDiv {
+
+    width:250px;
+    /*height:350px;*/
+    border : 1px solid #808080;
+
+}
+
+.ButtonClass {
+
+    width:50px;
+    height:50px;
+}
+
+.NumberBtnClass {
+    width:50px;
+    height:50px;
+    margin: 6.5px;
+}
+
+.OperatorBtnClass, .equalBtnClass, .ClearBtnClass {
+     width:50px;
+    height:50px;
+    margin: 6.5px;
+}
+
